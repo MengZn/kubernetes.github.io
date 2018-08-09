@@ -1,4 +1,5 @@
 <!-- Thanks for filing an issue! Before submitting, please fill in the following information. -->
+<!-- See https://kubernetes.io/docs/contribute/start/ for guidance on writing an actionable issue description. -->
 
 <!--Required Information-->
 
@@ -14,7 +15,7 @@
 
 
 **Page to Update:**
-http://kubernetes.io/...
+https://kubernetes.io/...
 
 <!--Optional Information (remove the comment tags around information you would like to include)-->
 <!--Kubernetes Version:-->
